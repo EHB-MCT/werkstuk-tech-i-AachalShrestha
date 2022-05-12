@@ -7,7 +7,7 @@ Vul dit document aan, en deponeer de bestanden die je gebruikte in de beschikbar
 
 - Aachal Shrestha
 - Groep D
-- Groepsnaam
+- Groepsnaam: Under the sea
 
 
 ## Storyline 
@@ -32,8 +32,8 @@ Vul volgende elementen in, deze zullen dezelfde zijn voor iedereen in de groep. 
 
 Leg uit hoe je de experience van de gebruiker vormgaf en waar je nog dingen zou toevoegen (licht, geluid, materiaal, etc)
 
-Status quo: In het begin is mijn character alleen en voelt ze zich hopeloos en depressief. Ze bevindt zich ook diep in de zee. Ik heb de character 3D geprint en op een houten stuk gelegd. De character zit in een soort doos waar ik op de bovenste stuk hout kleine gaten heb gelaserprint. Dit zorgt ervoor dat er weinig licht op de character schijnt. Het visualiseert hoe weinig licht er diep in het water is.
-Als ik nog dingen zou mogen toevoegen zou ik zeker water toevoegen. Mijn oorspronkelijke idee was om 2 platen dicht bij elkaar te plaatsen en ertussen water te doen zodat het lijkt alof we in water zijn. Ook zou ik juist onder de gaatjes op de bovenste stuk hout een soort plastik op zetten om dezelfde effect te creeëren als er licht op water schijnt.
+Status quo: In het begin is mijn character alleen en voelt ze zich hopeloos en depressief. Ze bevindt zich diep in de zee. Ik heb de karakter 3D geprint en op een houten stuk gelegd. De karakter zit in een soort doos waar ik op de bovenste stuk hout kleine gaten heb gelaserprint. Dit zorgt ervoor dat er weinig licht op de character schijnt. Het visualiseert hoe weinig licht er diep in het water is.
+Als ik nog dingen zou mogen toevoegen zou ik zeker water toevoegen. Mijn oorspronkelijke idee was om 2 platen dicht bij elkaar te plaatsen en ertussen water te doen zodat het lijkt alof we in water zijn. Ook zou ik juist onder de gaatjes op de bovenste stuk hout een soort plastiek op zetten om hetzelfde effect te creeëren als er licht op water schijnt.
 
 Crossing: Wanneer ze de kaart vinden naar de buitenwereld vertrekken samen. Maar dat loopt niet vlotjes, ze worden opgepakt. Om dit voor te stellen heb ik de kaar gelaserprint op hout en het pad die ze volgen opgelicht met led lampjes. Het laatste ledje knippert, het stelt de plaats waar ze vastzitten voor. 
 
